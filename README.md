@@ -134,7 +134,13 @@ create config folder and add config.env file in it and all all env variables the
 
 **Database:** MongoDB
 
+## Note
 
+Make sure to add mongodb url to config file
+
+Add the port number to config file
+
+Add the the deployed frontend url(localhost url) to allowedOrigins in app.js backend
 ## Screenshots
 
 ![App Screenshot](https://i.postimg.cc/6qLR3WNt/Expense-Management-System-Brave-19-04-2023-11-08-53.png)
